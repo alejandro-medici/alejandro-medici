@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=alejandro-medici&show_icons=true&theme=dracula)
+
+![Alejandro's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-medici&layout=compact)
 <!--
 **alejandro-medici/alejandro-medici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
